@@ -1,0 +1,15 @@
+.align{
+    color:green
+}
+img{
+    width: 200px;
+}
+.center{
+    color:yellowgreen
+}
+li[value="1"]{
+    color:red
+}
+li[value="2"]{
+    color:green
+}
